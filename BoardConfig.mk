@@ -12,14 +12,14 @@ DEVICE_PATH := device/ulefone/Armor_3W
 
 
 
-TARGET_RECOVERY_FSTAB := device/ulefone/Armor_3W/recovery.fstab
-TARGET_USES_ION := true
-BOARD_HAS_NO_SELECT_BUTTON := true
+#TARGET_RECOVERY_FSTAB := device/ulefone/Armor_3W/recovery.fstab
+#TARGET_USES_ION := true
+#BOARD_HAS_NO_SELECT_BUTTON := true
 #TW_THEME := portrait_hdpi
-RECOVERY_SDCARD_ON_DATA := true
+#RECOVERY_SDCARD_ON_DATA := true
 #TARGET_USERIMAGES_USE_EXT4 := true
 #TARGET_USERIMAGES_USE_F2FS := true
-BOARD_SUPPRESS_SECURE_ERASE := true
+#BOARD_SUPPRESS_SECURE_ERASE := true
 
 
 
